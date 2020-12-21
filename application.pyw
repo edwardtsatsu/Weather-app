@@ -1,7 +1,7 @@
 #! python3
 """
 @created: 2020-10-18 07:36:35
-@author: Prajjwal Pathak ( pyGuru )
+@author: TSATSU EDWARD
 
 Weatherzilla - Weather App
 
