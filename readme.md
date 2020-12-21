@@ -8,7 +8,6 @@ You can fetch data from more than 200,000 weather stations from all around the w
 
 ## How to Download
 
-Download this project from here [Download Weatherzilla - Weather App](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Projects/tree/master/Weatherzilla%20-%20Weather%20App)
 
 ## Requirements
 
