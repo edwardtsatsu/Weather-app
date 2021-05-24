@@ -1,1 +1,1 @@
-# COvid19-tracker
+# Weather detection machine learning module
